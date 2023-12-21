@@ -1,0 +1,5 @@
+asd, Diciembre, 2023, 186, 1550, 1364
+asd, Noviembre, 2023, 600, 1200, 600
+asd, Octubre, 2023, 1070, 1300, 230
+asd, Septiembre, 2023, 600, 1200, 600
+misa, Diciembre, 2023, 1000, 1000, 0
